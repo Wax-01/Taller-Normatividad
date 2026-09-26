@@ -4,12 +4,11 @@
 _Taller X - [Nombre completo del taller]_
 
 ## 👥 Integrantes del equipo
-- Nombre 1 (correo o usuario GitHub)
-- Nombre 2
-- Nombre 3
+- Julian Aguilar
+- Juan Esteban Ramirez
 
 ## 🧠 Descripción general del trabajo
-Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
+
 
 ## 🔧 Proceso de desarrollo
 Explique cómo realizaron el trabajo: qué decisiones tomaron, qué herramientas utilizaron, qué aspectos modelaron primero y cómo lo fueron ajustando.

@@ -4,22 +4,32 @@
 _Indique la fecha de la clase en que se trabajó este taller._
 
 ## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Julian Aguilar
+- Juan Esteban Ramirez
 
 ## 🧠 Actividades realizadas en clase
 
 Describa brevemente qué se hizo durante la sesión:
 
 - ¿Qué se discutió con el equipo?
+
+Se busco hallar cuales eran esos puntos delicados que necesitaban de una normatividad, como por ejemplo el manejo de los horarios y correos de los estudiantes 
+
 - ¿Qué decisiones de modelado se tomaron?
+
+
+
 - ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
+
+Todo se manejo en el excel
+
 - ¿Qué parte del trabajo se alcanzó a desarrollar?
+
+Se plantearon algunas normas, pero falta consultar con el cliente para ver si posee mas informacion, trabajamos con la normatividad publica que nos da la universidad
 
 ## 🧩 Boceto inicial del modelo
 
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
+IR A PLANTILLA_CHEKLIST
 
 ## 🔁 Tareas definidas para complementar el taller
 
@@ -27,9 +37,9 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en draw.io | Nombre 1 | 10/08 |
-| Redacción del informe     | Nombre 2 | 11/08 |
-| Investigación y referencias | Nombre 3 | 12/08 |
+| Investigacion de normatividad | Juan Esteban Ramirez | 12/09 |
+| Redacción del informe     | Julian Aguilar | 13/09 |
+| Terminar el excel | Julian Aguilar | 13/09 |
 
 ---
 
