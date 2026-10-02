@@ -46,8 +46,13 @@ La solución debe apoyarse únicamente en herramientas ya autorizadas por la Uni
 15. International Organization for Standardization. *ISO/IEC 27001:2022 — Information security, cybersecurity and privacy protection — Information security management systems — Requirements*.
 16. Microsoft. *Microsoft Trust Center / Documentación de cumplimiento de Microsoft 365 y Power Automate* (procesamiento de datos de M365, DLP, retención) — aplica porque el cliente exige que la automatización use exclusivamente herramientas ya autorizadas (Office 365, Power Automate). [learn.microsoft.com/power-automate](https://learn.microsoft.com/power-automate/). Fecha de consulta: 26/09/2026.
 
+### Documento completo de la política institucional y acreditación (usados para completar el checklist)
+
+18. Universidad de La Sabana. *Política de Tratamiento de Datos Personales* (documento completo, vigente desde el 19 de agosto de 2013). Dirección de Publicaciones. [editorial.unisabana.edu.co/wp-content/uploads/2016/04/Tratamiento-datos.pdf](https://editorial.unisabana.edu.co/wp-content/uploads/2016/04/Tratamiento-datos.pdf). Fecha de consulta: 02/10/2026. *(Esta vez sí se pudo leer el documento completo; reemplaza la nota de acceso fallido de la referencia 9.)*
+19. Consejo Nacional de Acreditación (CNA) / Consejo Nacional de Educación Superior (CESU). *Lineamientos y aspectos por evaluar para la acreditación en alta calidad de los programas académicos, las unidades académicas y las instituciones de educación superior* (Acuerdo 01 de 2025 CESU), aprobado el 16 de diciembre de 2025 — usado para fundamentar la categoría "Aseguramiento de la Calidad (CNA)" del checklist, dado que la encuesta es insumo del proceso de acreditación institucional (ver informes de los Talleres 5 y 7).
+
 ### Fuente asistida por IA
-17. Fuente asistida por IA: Claude (Anthropic, modelo Sonnet 5), septiembre 2026 — usada para localizar y resumir las fuentes normativas anteriores; toda cita legal/institucional fue verificada contra la fuente primaria enlazada.
+20. Fuente asistida por IA: Claude (Anthropic, modelo Sonnet 5), septiembre-octubre 2026 — usada para localizar y resumir las fuentes normativas anteriores; toda cita legal/institucional fue verificada contra la fuente primaria enlazada.
 
 ---
 
